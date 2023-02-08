@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Kazakhstan>
+    <API>5492542334:AAExQHD0NN3rSqUOWsbzNPNDG9BSzLveCSM</API>
+    <WelcomeMessage>Hello, I am KazGuiderBot. I will guide you through endless steppes and high mountains of Kazakhstan. You can chose one of the regions of Kazakhstan bellow to begin.</WelcomeMessage>
+    <GeneralInfo>Kazakhstan is a unique region in the world because of its history, geographical position, and size. Being the world’s 9th largest country and located in the centre of Eurasia, it is also the largest landlocked country in the world. These factors have resulted in the country's particular climate and nature, which seem to absorb the brightest examples of the landscape of both continents. In addition, the complicated history of the Kazakh people and the constant interaction of nomadic lifestyle with settled people in South Kazakhstani ancient cities have led to Kazakhstan's unique and authentic culture.</GeneralInfo>
+    <HelpMessage>Use /start to begin
+Contact @abzal_orazbek if you need help</HelpMessage>
+    <History>Kazakhstan was originally inhabited by nomadic tribes. In the 13th century the land was invaded by the Mongol Empire and became territories of the Kazakh Khanate. During this time the cities of Taraz and Turkestan were established as trade cities along the Great Silk Road. When the Kazakh Khanate began to break up in the 1700s, the area began to be colonized by the Russian Empire. After the fall of the Russian Empire, the Kazakhs experienced a brief time of independence, but soon became part of the Soviet Union. In 1953, Soviet leader Nikita Khrushchev started the Virgin Lands program. This was an effort to take Kasakhstan's agricultural based economy and industrialize it.
+
+In 1991 with the fall of the Soviet Union, Kazakhstan became an independent nation. The country has since made great strides in developing a market economy and has had strong economic growth since 2000.</History>
+    <Geography>As it extends across both sides of the Ural River, considered the dividing line separating Europe and Asia, Kazakhstan is one of only two landlocked countries in the world that has territory in two continents (the other is Azerbaijan).
+
+With an area of 2,700,000 square kilometres (1,000,000 sq mi) – equivalent in size to Western Europe – Kazakhstan is the ninth-largest country and largest landlocked country in the world. While it was part of the Russian Empire, Kazakhstan lost some of its territory to China's Xinjiang province,[50] and some to Uzbekistan's Karakalpakstan autonomous republic during Soviet years.</Geography>
+    <Culture>Before the Russian colonisation, the Kazakhs had a highly developed culture based on their nomadic pastoral economy. Islam was introduced into the region with the arrival of the Arabs in the 8th century. It initially took hold in the southern parts of Turkestan and spread northward.[258] The Samanids helped the religion take root through zealous missionary work. The Golden Horde further propagated Islam amongst the tribes in the region during the 14th century.[259]
+Kazakhstan is home to a large number of prominent contributors to literature, science and philosophy: Abay Qunanbayuli, Mukhtar Auezov, Gabit Musirepov, Kanysh Satpayev, Mukhtar Shakhanov, Saken Seyfullin, Jambyl Jabayev, among many others.
+Tourism is a rapidly growing industry in Kazakhstan and it is joining the international tourism networking. In 2010, Kazakhstan joined The Region Initiative (TRI) which is a Tri-regional Umbrella of Tourism-related organisations. TRI is functioning as a link between three regions: South Asia, Central Asia, and Eastern Europe. Armenia, Bangladesh, Georgia, Kazakhstan, Kyrgyzstan, India, Nepal, Pakistan, Russia, Sri Lanka, Tajikistan, Turkey, and Ukraine are now partners, and Kazakhstan is linked with other South Asian, Eastern European, and Central Asian countries in the tourism market.</Culture>
+    <Economy>Kazakhstan's economy, supported by rising oil output and prices, grew at an average of 8% per year until 2013, before suffering a slowdown in 2014 and 2015.[137] Kazakhstan was the first former Soviet Republic to repay all of its debt to the International Monetary Fund, 7 years ahead of schedule.[138]
+
+Kazakhstan has a GDP of $179.332 billion and an annual growth rate of 4.5%. Per capita, Kazakhstan's GDP stands at $9,686.[139]
+
+Kazakhstan's increased role in global trade and central positioning on the new Silk Road gave the country the potential to open its markets to billions of people.[140] Kazakhstan joined the World Trade Organization in 2015.[141]</Economy>
+    <Regions>
+        <Region name="Astana city">
+            <GeneralInfo>Astana is the capital city of Kazakhstan. The city lies on the banks of the Ishim River in the north-central part of Kazakhstan, within the Akmola Region, though administered as a city with special status separately from the rest of the region. A 2020 official estimate reported a population of 1,136,008 within the city limits, making it the second-largest city in the country, after Almaty, which had been the capital until 1997.[3] The city became the capital of Kazakhstan in 1997; since then it has grown and developed economically into one of the most modern cities in Central Asia.[13][14] In 2021, the government selected Astana as one of the 10 priority destinations for tourist development.[15]</GeneralInfo>
+            <Landmarks>
+                <Landmark name="Baiterek">
+                    <Description>Baiterek is a monument and observation tower in Astana, the capital city of Kazakhstan. A tourist attraction popular with foreign visitors and Kazakhs, it is emblematic of the city, which became capital of the country in 1997. The tower is located on Nurjol Boulevard, and is considered a symbol of post-independence Kazakhstan.</Description>
+                    <Image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Central_Downtown_Astana_2.jpg/1280px-Central_Downtown_Astana_2.jpg</Image>
+                    <Location>51.1283, 71.4305</Location>
+                </Landmark>
+                <Landmark name="Khan Shatyr Entertainment Center">
+                    <Description>Khan Shatyr is a transparent tent located in Astana, the capital city of Kazakhstan. Built in a neo-futurist style, the architectural project was unveiled by the first President of Kazakhstan Nursultan Nazarbayev on December 9, 2006. The 90-metre high tent has a 200-by-195-metre elliptical base covering 140,000 square metres. Under the tent, an area larger than 10 football stadiums, is an urban-scale park, shopping and entertainment venue with squares and cobbled streets, a boating river, shopping centre, minigolf and indoor beach resort.</Description>
+                    <Image>https://archello.s3.eu-central-1.amazonaws.com/images/2010/07/28/better1-107.1506063856.8233.jpg</Image>
+                    <Location>51.1322, 71.4038</Location>
+                </Landmark>
+            </Landmarks>
+        </Region>
+        <Region name="Almaty region">
+            <GeneralInfo>Almaty region is a region in Kazakhstan, located in the southeastern part of the country. Its capital, from 1997 to 2022 was the city of Taldykorgan. But with the creation of the new Jetysu Region in 2022, Taldykorgan was chosen to be its capital and the capital of Almaty region was moved to the city of Kunayev.</GeneralInfo>
+            <Landmarks>
+                <Landmark name="Big Almaty Lake">
+                    <Description>Big Almaty Lake is natural alpine reservoir. It is located in the Trans-Ili Alatau mountains, 15 km south from the center of Almaty in Kazakhstan.[1] The lake is 2511 meters above sea level.</Description>
+                    <Image>https://meanderwander.com/wp-content/uploads/2020/11/Big-Almaty-Lake-1.jpg</Image>
+                    <Location>43.0506, 76.9850</Location>
+                </Landmark>
+                <Landmark name="Lake Kaindy">
+                    <Description>Lake Kaindy is a 400-meter-long lake located in Kazakhstan. The lake reaches depths of nearly 30 meters. It is located 129 kilometers east-southeast of the city of Almaty and is 2,000 meters above sea level.</Description>
+                    <Image>https://central-asia.guide/wp-content/uploads/2021/12/Kaindy_blue_dead_lake.jpg</Image>
+                    <Location>42.9875, 78.4638</Location>
+                </Landmark>
+            </Landmarks>
+        </Region>
+        <Region name="Turkestan region">
+            <GeneralInfo>Turkestan region is a region in Kazakhstan, the administrative center is the city of Turkestan.
+
+The area of the region is 116,280 km²[2] (4.3% of the territory of the republic). The distance between the northern and southern sections in a straight line is 506 km. The type of climate is sharply continental.</GeneralInfo>
+            <Landmarks>
+                <Landmark name="Mausoleum of Khoja Ahmed Yasawi">
+                    <Description>The Mausoleum of Khawaja Ahmed Yasawi is a mausoleum in the city of Turkestan, in southern Kazakhstan. The structure was commissioned in 1389 by Timur, who ruled the area as part of the expansive Timurid Empire, to replace a smaller 12th-century mausoleum of the famous Turkic poet and Sufi mystic, Khoja Ahmed Yasawi. </Description>
+                    <Image>https://whc.unesco.org/uploads/thumbs/site_1103_0003-1200-630-20130916122809.jpg</Image>
+                    <Location>43.2977, 68.2708</Location>
+                </Landmark>
+                <Landmark name="Aksu-Zhabagly Nature Reserve">
+                    <Description>The Aksu-Zhabagly Nature Reserve is the oldest nature reserve in Central Asia. It is located in the southern province of the Republic of Kazakhstan. It covers the north-western mountain chains of the Tian Shan. Its name is derived from the biggest river in the area, the Aksu, and the mountain chain Zhabagly which is located in the northern part of the area.</Description>
+                    <Image>https://www.advantour.com/img/kazakhstan/nature/aksu-zhabagly1.jpg</Image>
+                    <Location>42.3788, 70.6097</Location>
+                </Landmark>
+                <Landmark name="Akmeshit Cave">
+                    <Description>“Akmeshit”, translated from the Kazakh language, means “White Mosque”. According to a legend, women and children found shelter here during Dzungarian invasion. Some even say that an evil dragon, chased away by the prophet Suleiman, had lived in the cave for years. The cave has a peculiar microclimate. It is usually warmer inside it than outside, in spring it is cooler inside. In addition, trees do not grow in the vicinity of the cave, but inside it there is an oasis with its own ecosystem. This unusual phenomenon strikes the imagination of any traveler.</Description>
+                    <Image>https://files.kazakhstan.travel/files/public/201901/17/aea8e80316ba44af8d2d6a2fd35cc572/turkestan-peshera.jpg</Image>
+                    <Location>43.0063, 69.7042</Location>
+                </Landmark>
+            </Landmarks>
+        </Region>
+    </Regions>
+</Kazakhstan>
