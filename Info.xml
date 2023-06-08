@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Kazakhstan>
-    <API>5492542334:AAExQHD0NN3rSqUOWsbzNPNDG9BSzLveCSM</API>
     <WelcomeMessage>Hello, I am KazGuiderBot. I will guide you through endless steppes and high mountains of Kazakhstan. You can chose one of the regions of Kazakhstan bellow to begin.</WelcomeMessage>
     <GeneralInfo>Kazakhstan is a unique region in the world because of its history, geographical position, and size. Being the world’s 9th largest country and located in the centre of Eurasia, it is also the largest landlocked country in the world. These factors have resulted in the country's particular climate and nature, which seem to absorb the brightest examples of the landscape of both continents. In addition, the complicated history of the Kazakh people and the constant interaction of nomadic lifestyle with settled people in South Kazakhstani ancient cities have led to Kazakhstan's unique and authentic culture.</GeneralInfo>
     <HelpMessage>Use /start to begin
